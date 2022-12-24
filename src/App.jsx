@@ -16,7 +16,7 @@ function App() {
       <div className="flex h-header flex-col items-center justify-center bg-[url('mountains-55067.png')] bg-cover bg-center bg-no-repeat">
         <h1 className="p-5 text-9xl font-bold text-amber-100">Hello World!</h1>
         <p className="p-5 text-2xl text-center font-bold text-amber-100">
-          This is a React, Vite and Tailwind.
+          This is a React, Vite and Tailwind website.
         </p>
       </div>
       <div className="h-header"></div>
